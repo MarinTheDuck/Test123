@@ -1,8 +1,8 @@
 {
-    "v": 3,
-    "go": false,
+    "v": 1,
+    "go": true,
     "imgURL": "https://raw.githubusercontent.com/MarinTheDuck/Test123/main/Pic.jpg",
     "imgName": "xdd.jpg",
-    "wait": 40,
-    "cu": true
+    "wait": 600,
+    "cu": false
 }
